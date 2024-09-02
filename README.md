@@ -28,17 +28,21 @@ Here's the complete README with descriptions for each screenshot, explaining wha
    ![Real-Time Simulation](https://github.com/user-attachments/assets/5d4f2a6c-e07b-4162-b622-ff7fa407af80)
    - **Description:** 2nd available backtesting strategy.
 
-### 6. **Portfolio Management**
+### 6. **Portfolio**
    ![Portfolio Management](https://github.com/user-attachments/assets/a8ba92a8-d837-43d9-8b97-534678479b05)
-   - **Description:** The portfolio management screen helps you keep track of your investments. It offers tools for managing asset allocation, rebalancing your portfolio, and setting up stop-loss or take-profit orders.
+   - **Description:** Red Line (Cash): Represents the cash available in your portfolio throughout the backtest. The value on the right indicates the cash balance at the end of the backtest. Blue Line (Portfolio Value): This line shows the total value of your portfolio over time, including both the cash and the value of the assets held. The value on the rightshows the final portfolio value.
 
 ### 7. **Performance Analysis**
    ![Performance Analysis](https://github.com/user-attachments/assets/bfadcd6a-59e2-43c7-b744-e75cf90bc2ca)
-   - **Description:** Detailed performance analysis charts and reports are provided here. This allows you to dig deeper into the data to understand the strengths and weaknesses of your trading strategies.
+   - **Description:** Red Circles (Negative Trades): These markers indicate trades that resulted in a loss. Blue Circles (Positive Trades): These markers indicate trades that resulted in a profit.
 
-### 8. **Optimization Tools**
+### 8. **Price Chart**
    ![Optimization Tools](https://github.com/user-attachments/assets/a4ecd957-498e-4d7a-9764-9642e8b18370)
-   - **Description:** The optimization tools interface helps you refine your strategies using advanced statistical methods and machine learning algorithms. Optimize for metrics like return, risk, and execution efficiency.
+   - **Black Line (Price):** This is the price movement of the asset (e.g., a stock) over time.
+   - **Green Triangles (Buy Signals):** These indicate the points where the strategy executed a buy order.
+   - **Red Triangles (Sell Signals):** These indicate the points where the strategy executed a sell order.
+   - **Blue Line (Simple Moving Average - 100):** This line represents the long-period moving average (100 in this case), which is a smoothened version of the price to show long-term trends.
+   - **Red Line (Simple Moving Average - 20):** This line represents the short-period moving average (20 in this case), which responds more quickly to price changes.
 
 ## 🚀 Key Features
 
