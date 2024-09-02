@@ -1,19 +1,44 @@
+Here's the complete README with descriptions for each screenshot, explaining what they represent and how they contribute to the functionality of the **Flint & Steel Backtesting Platform**:
+
+---
+
 # 🔥 Flint & Steel Backtesting Platform
 
 **Flint & Steel Backtesting Platform** is an advanced Python application designed for quantitative analysts and traders looking to rigorously backtest and optimize trading strategies across a diverse range of financial instruments. With a focus on ease of use and powerful capabilities, this platform allows you to simulate trades on ETFs like SOXL, VFV, and VOO, as well as stocks such as NVIDIA, TESLA, META, and MICROSOFT.
 
 ## 📷 Screenshots
 
-![image](https://github.com/user-attachments/assets/8527f159-ad6f-444b-b03c-2398def2d049)
+### 1. **Main Dashboard**
+   ![Main Dashboard](https://github.com/user-attachments/assets/8527f159-ad6f-444b-b03c-2398def2d049)
+   - **Description:** The main dashboard provides an overview of the various features on the platform.
 
-![image](https://github.com/user-attachments/assets/584ae3ab-e2be-47ba-ae17-cca3337fb539)
+### 2. **Date Configuration**
+   ![Strategy Configuration](https://github.com/user-attachments/assets/584ae3ab-e2be-47ba-ae17-cca3337fb539)
+   - **Description:** Users are able to select a ticker and date interval to backtest their strategy.
 
-![image](https://github.com/user-attachments/assets/ee0379d0-71de-46ea-b54f-5582a4656101)
+### 3. **Backtesting & Hyperparameters**
+   ![Backtesting Results](https://github.com/user-attachments/assets/589a1b9a-bf28-43f8-ac9e-779de01bf1b9)
+   - **Description:** Here users select their backtesting strategy from a dropdown list (or custom uploaded python script) and adjust hyperparameters as required. 
 
-![image](https://github.com/user-attachments/assets/e37cc786-2353-4a24-8672-0bc43fe3c32e)
+### 4. **RSI**
+   ![Trade Execution Log](https://github.com/user-attachments/assets/e37cc786-2353-4a24-8672-0bc43fe3c32e)
+   - **Description:** 1 out of 5 the backtesting strategies readily available with tunable hyperparameters.
 
-![image](https://github.com/user-attachments/assets/5d4f2a6c-e07b-4162-b622-ff7fa407af80)
+### 5. **Bollinger Bands**
+   ![Real-Time Simulation](https://github.com/user-attachments/assets/5d4f2a6c-e07b-4162-b622-ff7fa407af80)
+   - **Description:** 2nd available backtesting strategy.
 
+### 6. **Portfolio Management**
+   ![Portfolio Management](https://github.com/user-attachments/assets/a8ba92a8-d837-43d9-8b97-534678479b05)
+   - **Description:** The portfolio management screen helps you keep track of your investments. It offers tools for managing asset allocation, rebalancing your portfolio, and setting up stop-loss or take-profit orders.
+
+### 7. **Performance Analysis**
+   ![Performance Analysis](https://github.com/user-attachments/assets/bfadcd6a-59e2-43c7-b744-e75cf90bc2ca)
+   - **Description:** Detailed performance analysis charts and reports are provided here. This allows you to dig deeper into the data to understand the strengths and weaknesses of your trading strategies.
+
+### 8. **Optimization Tools**
+   ![Optimization Tools](https://github.com/user-attachments/assets/a4ecd957-498e-4d7a-9764-9642e8b18370)
+   - **Description:** The optimization tools interface helps you refine your strategies using advanced statistical methods and machine learning algorithms. Optimize for metrics like return, risk, and execution efficiency.
 
 ## 🚀 Key Features
 
@@ -108,3 +133,7 @@ We welcome contributions to enhance the Flint & Steel Backtesting Platform. To c
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+This README now fully integrates the screenshots with descriptions of what each represents, providing a clear and detailed guide to the platform's features and usage.
