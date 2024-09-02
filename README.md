@@ -28,10 +28,6 @@
   
   ![Portfolio Management Screenshot](#)
 
-## ❓ Why It’s All in One File
-
-Flint & Steel Backtesting Platform is designed to be as accessible and straightforward as possible. By packaging everything in a single Python file, users can quickly set up and run the platform without navigating complex directories or handling multiple dependencies. This all-in-one approach ensures that every component of the platform works seamlessly together, making it easier to deploy, share, and modify. While this might not be ideal for large-scale production environments, it’s perfect for a tool intended for individual traders and small teams who need a quick, efficient, and powerful solution.
-
 ## ⚙️ Installation
 
 To get started with Flint & Steel, simply clone the repository and run the Python file:
