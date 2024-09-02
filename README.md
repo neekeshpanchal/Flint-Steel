@@ -1,7 +1,3 @@
-Here's the complete README with descriptions for each screenshot, explaining what they represent and how they contribute to the functionality of the **Flint & Steel Backtesting Platform**:
-
----
-
 # 🔥 Flint & Steel Backtesting Platform
 
 **Flint & Steel Backtesting Platform** is an advanced Python application designed for quantitative analysts and traders looking to rigorously backtest and optimize trading strategies across a diverse range of financial instruments. With a focus on ease of use and powerful capabilities, this platform allows you to simulate trades on ETFs like SOXL, VFV, and VOO, as well as stocks such as NVIDIA, TESLA, META, and MICROSOFT.
@@ -137,7 +133,3 @@ We welcome contributions to enhance the Flint & Steel Backtesting Platform. To c
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This README now fully integrates the screenshots with descriptions of what each represents, providing a clear and detailed guide to the platform's features and usage.
