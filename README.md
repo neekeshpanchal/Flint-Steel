@@ -2,6 +2,19 @@
 
 **Flint & Steel Backtesting Platform** is an advanced Python application designed for quantitative analysts and traders looking to rigorously backtest and optimize trading strategies across a diverse range of financial instruments. With a focus on ease of use and powerful capabilities, this platform allows you to simulate trades on ETFs like SOXL, VFV, and VOO, as well as stocks such as NVIDIA, TESLA, META, and MICROSOFT.
 
+## 📷 Screenshots
+
+![image](https://github.com/user-attachments/assets/8527f159-ad6f-444b-b03c-2398def2d049)
+
+![image](https://github.com/user-attachments/assets/584ae3ab-e2be-47ba-ae17-cca3337fb539)
+
+![image](https://github.com/user-attachments/assets/ee0379d0-71de-46ea-b54f-5582a4656101)
+
+![image](https://github.com/user-attachments/assets/e37cc786-2353-4a24-8672-0bc43fe3c32e)
+
+![image](https://github.com/user-attachments/assets/5d4f2a6c-e07b-4162-b622-ff7fa407af80)
+
+
 ## 🚀 Key Features
 
 - **🕒 Real-Time Trading Simulation:**
