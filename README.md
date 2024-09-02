@@ -41,6 +41,7 @@ git clone https://github.com/yourusername/FlintAndSteel.git
 cd FlintAndSteel
 python Flint&Steel.py
 ```
+
 ## 💻 Usage
 🔧 Configure Your Strategy: Use the GUI to select your desired trading strategy and parameters.
 🏁 Run Backtesting: Start backtesting your strategy on historical data to evaluate performance.
@@ -51,8 +52,8 @@ python Flint&Steel.py
 
 
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions! Please fork the repository and submit a pull request with your enhancements or bug fixes.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
